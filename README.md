@@ -17,3 +17,6 @@ First, user clicks the "Generate Password" button. The JavaScript will prompt yo
 
 MIT License
 
+## Deployed Link
+https://salenaoneill.github.io/password-generator/Develop/index.html
+
